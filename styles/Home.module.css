@@ -90,8 +90,9 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #004420;
+  border-color: #004420;
+  box-shadow: 3px 3px 5px #004420;
 }
 
 .card h2 {
