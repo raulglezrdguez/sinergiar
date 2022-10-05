@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Misión</h2>
+            <h2>Misión.</h2>
             <p>
               Ofrecer alternativas de soluciones individualizadas a necesidades
               energéticas específicas, mediante fuentes renovables a precios
@@ -31,7 +31,7 @@ export default function Home() {
           </div>
 
           <div className={styles.card}>
-            <h2>Visión</h2>
+            <h2>Visión.</h2>
             <p>
               Ser una empresa líder en los procesos de transformación,
               mantenimiento e innovación tecnológica, del patrón de generación
@@ -42,7 +42,7 @@ export default function Home() {
           </div>
 
           <div className={styles.card}>
-            <h2>Valores que sustentan a nuestra empresa</h2>
+            <h2>Valores que sustentan a nuestra empresa.</h2>
             <ul>
               <li>Trabajo en equipo.</li>
               <li>Empatía.</li>
@@ -59,7 +59,7 @@ export default function Home() {
           </h2>
 
           <div className={styles.card}>
-            <h2>Energía solar</h2>
+            <h2>Energía solar.</h2>
             <ul>
               <li>Necesidades domésticas.</li>
               <li>
@@ -71,7 +71,7 @@ export default function Home() {
           </div>
 
           <div className={styles.card}>
-            <h2>Energía eólica</h2>
+            <h2>Energía eólica.</h2>
             <ul>
               <li>Molinos de viento (extracción de agua).</li>
               <li>Generadores de electricidad.</li>
@@ -79,7 +79,7 @@ export default function Home() {
           </div>
 
           <div className={styles.card}>
-            <h2>Biodigestores</h2>
+            <h2>Biodigestores.</h2>
             <ul>
               <li>Refrigeración.</li>
               <li>Cocción.</li>
@@ -89,7 +89,7 @@ export default function Home() {
 
           <div className={styles.card}>
             <h2>
-              Fabricación de carbón (ecológico) de marabú para la exportación
+              Fabricación de carbón (ecológico) de marabú para la exportación.
             </h2>
             <ul>
               <li>Recuperación de tierras improductivas altamente fértiles.</li>
